@@ -64,6 +64,7 @@ public class Array1 {
             newArr[index] = arr[i];
             index++;
         }
+
         System.out.println(Arrays.toString(newArr));
     }
 }
